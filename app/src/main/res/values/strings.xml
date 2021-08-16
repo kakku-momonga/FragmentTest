@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Stamp Rally</string>
+    <string name="pointconfirm">メニューを閉じる</string>
+    <string name="pointdelete">削除</string>
+    <string name="deletepoint">削除</string>
+    <string name="qr">QR設定</string>
+    <string name="nfc">nfc設定</string>
+    <string name="beacon">ビーコン設定</string>
+    <string name="gps">GPS設定</string>
+    <string name="stamp">スタンプ設定</string>
+    <string name="iflink">ifLink</string>
+
+    <string name="txtRegister"><u>アカウント登録</u></string>
+
+    <string name="qrshitei">QRコードを指定してください。またはQR読み込みからQRコードを読み取ることもできます。その後登録ボタンを押してください。</string>
+    <string name="nfcshitei">NFCをタッチし「NFC取得」ボタンを押してください。その後、下に値が表示されたら登録ボタンを押してください。</string>
+    <string name="kinbou_none">なし</string>
+    <string name="kinbou_gps">GPS</string>
+    <string name="kinbou_beacon">ビーコン</string>
+    <string name="kinbou">近傍処理</string>
+
+    <string name="login_txt">アカウント(メールアドレス)</string>
+    <string name="login_title">開催者ログイン</string>
+    <string name="login_btn">ログイン</string>
+
+    <string name="password">パスワード</string>
+
+    <string name="rallyinf_name">ラリー名称</string>
+    <string name="rallyinf_backgroud">背景画像URL</string>
+    <string name="rallyinf_checkbackground">背景画像チェック</string>
+    <string name="rallyinf_stamptype">スタンプタイプ</string>
+    <string name="rallyinf_qr">QRコード</string>
+    <string name="rallyinf_nfc">NFC</string>
+    <string name="rallyinf_elec">電子スタンプ</string>
+    <string name="rallyinf_btn">ボタン</string>
+    <string name="rallyinf_after_stamp_title">スタンプ取得時動作</string>
+    <string name="rallyinf_after_stamp_beep">Beep音をならす</string>
+    <string name="rallyinf_after_stamp_beepandbibe">Beep音を鳴らしバイブレーションする</string>
+    <string name="rallyinf_after_stamp_bibe">バイブレーションする</string>
+    <string name="rallyinf_after_stamp_none">なにもしない</string>
+
+    <string name="rallyinf_btnregister">登録</string>
+
+    <string name="rallyinf_ed_title">スタンプラリー有効化/無効化</string>
+    <string name="rallyinf_ed_enable">有効化する</string>
+    <string name="rallyinf_ed_disenable">無効化する</string>
+
+    <string name="stampgetmessage">スタンプ獲得時メッセージ</string>
+    <string name="finishmessage">ラリー完了時メッセージ</string>
+
+    <string name="large">大きい</string>
+    <string name="medium">普通</string>
+    <string name="small">小さい</string>
+
+</resources>
